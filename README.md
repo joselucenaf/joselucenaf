@@ -4,7 +4,7 @@
 
 📘 No momento, estou buscando aprender mais sobre Mensageria e React.
 
-🔋 Estou sempre buscando me desafiar cada vez mais nos projetos pessoais.
+🔋 Estou sempre me desafiando cada vez mais nos projetos pessoais, garantindo fixação do aprendizado e evolução das minhas habilidades.
 
 ---
 
